@@ -30,8 +30,9 @@ export default function OurProductsSection() {
         <h4 className="text-[20px] text-white">Savings Accounts</h4>
         <p className="font-light text-[#B3B3B3] text-center">
           Build your savings with our competitive interest rates and flexible
-          savings account options. Whether you're saving for a specific goal or
-          want to grow your wealth over time, we have the right account for you.
+          savings account options. Whether you&apos;re saving for a specific
+          goal or want to grow your wealth over time, we have the right account
+          for you.
         </p>
       </div>
       <div className="flex flex-col items-center gap-y-4 p-4">

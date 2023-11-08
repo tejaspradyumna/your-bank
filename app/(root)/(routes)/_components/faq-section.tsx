@@ -13,10 +13,10 @@ export default function FAQSection() {
           </div>
           <p className="font-light text-[#B3B3B3] pt-5">
             Opening an account with YourBank is easy. Simply visit our website
-            and click on the "Open an Account" button. Follow the prompts,
-            provide the required information, and complete the application
-            process. If you have any questions or need assistance, our customer
-            support team is available to help.
+            and click on the &quot;Open an Account&quot; button. Follow the
+            prompts, provide the required information, and complete the
+            application process. If you have any questions or need assistance,
+            our customer support team is available to help.
           </p>
         </div>
         <div className="bg-[#1A1A1A] p-[40px] border border-[#262626] rounded-[10px] flex flex-col divide-y divide-[#262626]">
@@ -28,11 +28,11 @@ export default function FAQSection() {
           <p className="font-light text-[#B3B3B3] pt-5">
             The documents required for a loan application may vary depending on
             the type of loan you are applying for. Generally, you will need to
-            provide identification documents (such as a passport or driver's
-            license), proof of income (such as pay stubs or tax returns), and
-            information about the collateral (if applicable). Our loan officers
-            will guide you through the specific requirements during the
-            application process.
+            provide identification documents (such as a passport or
+            driver&apos;s license), proof of income (such as pay stubs or tax
+            returns), and information about the collateral (if applicable). Our
+            loan officers will guide you through the specific requirements
+            during the application process.
           </p>
         </div>
         <div className="bg-[#1A1A1A] p-[40px] border border-[#262626] rounded-[10px] flex flex-col divide-y divide-[#262626]">
@@ -43,11 +43,11 @@ export default function FAQSection() {
           </div>
           <p className="font-light text-[#B3B3B3] pt-5">
             Accessing your accounts online is simple and secure. Visit our
-            website and click on the "Login" button. Enter your username and
-            password to access your accounts. If you haven't registered for
-            online banking, click on the "Enroll Now" button and follow the
-            registration process. If you need assistance, our customer support
-            team is available to guide you.
+            website and click on the &quot;Login&quot; button. Enter your
+            username and password to access your accounts. If you haven&apos;t
+            registered for online banking, click on the &quot;Enroll Now&quot;
+            button and follow the registration process. If you need assistance,
+            our customer support team is available to guide you.
           </p>
         </div>
         <div className="bg-[#1A1A1A] p-[40px] border border-[#262626] rounded-[10px] flex flex-col divide-y divide-[#262626]">
@@ -68,7 +68,7 @@ export default function FAQSection() {
       </div>
       <div className="flex items-center w-full justify-center">
         <button className="px-5 py-3 rounded-full bg-[#1C1C1C] border border-[#262626] mt-10 text-white flex items-center gap-x-2">
-          Learn All FAQ's
+          Learn All FAQ&apos;s
           <div className="relative h-[18px] w-[18px]">
             <Image
               src="/assets/icons/chevron-down.png"

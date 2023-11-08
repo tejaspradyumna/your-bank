@@ -68,9 +68,9 @@ export default function OurTestimonialsSection() {
             />
           </div>
           <p className="text-white text-center">
-            I love the convenience of YourBank's mobile banking app. It allows
-            me to stay on top of my finances and make transactions on the go.
-            The app is user-friendly and secure, giving me peace of mind.
+            I love the convenience of YourBank&apos;s mobile banking app. It
+            allows me to stay on top of my finances and make transactions on the
+            go. The app is user-friendly and secure, giving me peace of mind.
           </p>
           <h5 className="text-center text-[#caff34]">Emily G</h5>
         </div>
